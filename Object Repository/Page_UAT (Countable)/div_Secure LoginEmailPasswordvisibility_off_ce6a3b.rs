@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Secure LoginEmailPasswordvisibility_off_ce6a3b</name>
+   <tag></tag>
+   <elementGuidId>93f24c6e-f34f-48e6-9fbe-42d81d2b8ca5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.right-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='support@countable.co'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;Secure LoginEmailPasswordvisibility_off Remember MeForgot Password?Login Or cont&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c3d085ba-a34e-44c7-bc4f-6bbe701e5957</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>right-block</value>
+      <webElementGuid>e5dbcc37-9f07-4cf6-9872-46290ed470bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Secure LoginEmailPasswordvisibility_off Remember MeForgot Password?Login Or continue with  Sign in with Xero  Sign in with Sage  Sign in with Intuit  Don't have an account? Sign UpPrivacy PolicyTerms of Use</value>
+      <webElementGuid>d0c3ffef-612c-449e-80dd-120f3ea97bef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;user-in-main&quot;]/div[@class=&quot;right-block&quot;]</value>
+      <webElementGuid>f5aeb011-5f56-4396-81cd-86ce8e99b497</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='support@countable.co'])[1]/following::div[1]</value>
+      <webElementGuid>15afc1eb-036c-44bc-b4eb-c852ac1ebea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='›'])[1]/following::div[1]</value>
+      <webElementGuid>c00eafa3-12d6-48c8-b562-609079b548a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]</value>
+      <webElementGuid>c59882b0-ceee-4d08-8000-e336319174bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Secure LoginEmailPasswordvisibility_off Remember MeForgot Password?Login Or continue with  Sign in with Xero  Sign in with Sage  Sign in with Intuit  Don&quot; , &quot;'&quot; , &quot;t have an account? Sign UpPrivacy PolicyTerms of Use&quot;) or . = concat(&quot;Secure LoginEmailPasswordvisibility_off Remember MeForgot Password?Login Or continue with  Sign in with Xero  Sign in with Sage  Sign in with Intuit  Don&quot; , &quot;'&quot; , &quot;t have an account? Sign UpPrivacy PolicyTerms of Use&quot;))]</value>
+      <webElementGuid>0ecc0e41-db7f-4afd-8f36-3ef25b103363</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>18.3-AdjEntryCashAccountValidateRestriction</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8491c46f-601b-4dd9-92ba-461b9ccdaa1f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>370706ac-ba6a-4341-a8fa-9146a41560fd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.clientEntityName</defaultValue>
+      <description></description>
+      <id>370706ac-ba6a-4341-a8fa-9146a41560fd</id>
+      <masked>false</masked>
+      <name>engagementClick</name>
+   </variable>
+</TestCaseEntity>

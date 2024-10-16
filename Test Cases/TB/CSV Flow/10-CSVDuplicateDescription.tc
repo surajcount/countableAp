@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>10-CSVDuplicateDescription</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7346f048-1a24-44db-af5f-6139ccd4d231</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Import_1</name>
+   <tag></tag>
+   <elementGuidId>ba69ae83-35a9-45f6-9e6c-3f727a082f2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button-medium.mdc-button.mat-mdc-button.mdc-button--unelevated.mat-mdc-unelevated-button.mat-primary.mat-mdc-button-base.cdk-focused.cdk-mouse-focused > span.mdc-button__label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Import&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e5671336-206b-4481-9115-d2623c7f1a0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-button__label</value>
+      <webElementGuid>2fed53f1-491c-465c-a09c-aa39ccb42b19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Import </value>
+      <webElementGuid>37ec4ed7-14ee-4f77-8cbb-0c0d136bd15c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;dasboard-container layout-dashboard drawer-small&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;dashboard-main&quot;]/ntr-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ntr-panel d-flex w-100 h-100 ntr-Left-side-menu-enabled ntr-right-panel-desabled signOff-disabled&quot;]/div[@class=&quot;dashboard-main gap-0 bg-white&quot;]/app-import-trialbalance[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-wraper import-partner-tb&quot;]/div[@class=&quot;page-title-block bg-white pt-0&quot;]/div[@class=&quot;title-right button-group justify-content-end ng-star-inserted&quot;]/button[@class=&quot;button-medium mdc-button mat-mdc-button mdc-button--unelevated mat-mdc-unelevated-button mat-primary mat-mdc-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mdc-button__label&quot;]</value>
+      <webElementGuid>660f20af-d23b-45e6-b3fc-8c9c903a8642</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[4]</value>
+      <webElementGuid>b750ef90-7016-4c44-818b-589cd8b7a95d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import Trial Balance'])[1]/following::span[6]</value>
+      <webElementGuid>26339a93-3fc9-448a-a49a-6a8bd7ad9bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entity Name'])[1]/preceding::span[4]</value>
+      <webElementGuid>29567639-85b7-4a90-9e14-8b9cf8419fd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation2 Xero'])[2]/preceding::span[4]</value>
+      <webElementGuid>8922511b-684f-4833-bbc7-6ab03b260f40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Import']/parent::*</value>
+      <webElementGuid>bf2078fa-55d3-4a91-86d2-141d3ac483c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[2]/span[2]</value>
+      <webElementGuid>a2627bcc-432f-44c0-8ca9-ac249a6ef6e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Import ' or . = ' Import ')]</value>
+      <webElementGuid>e9152300-ac1b-4d4a-963d-3d2c30afb0b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

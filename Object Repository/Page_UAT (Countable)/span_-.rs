@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_-</name>
+   <tag></tag>
+   <elementGuidId>2d59e34e-3136-4f0b-8588-65818e5547fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tbGrid']/table/tbody/tr[85]/td[11]/button/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-mdc-menu-trigger.button-text.text-left.h-100.w-100.mdc-button.mat-mdc-button.active.active-dropdown.mat-unthemed.mat-mdc-button-base.ng-star-inserted.flex-box.cdk-focused.cdk-mouse-focused > span.mdc-button__label > span.button-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;-&quot;s] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>20ff5a27-9def-4e1f-af88-12072bf1609e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-label</value>
+      <webElementGuid>7fb0cfa7-536a-4e16-83ba-e8c2a122151c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> - </value>
+      <webElementGuid>75cb764e-e6c8-4420-903f-62c32fff193e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbGrid&quot;)/table[@class=&quot;mat-mdc-table mdc-data-table__table cdk-table m-0 table-countable cell-p-8 hover-action trialBalTable customized-sort post-adjusting-selectedrow-color&quot;]/tbody[@class=&quot;mdc-data-table__content&quot;]/tr[@class=&quot;mat-mdc-row mdc-data-table__row cdk-row ng-star-inserted rowSelectColor&quot;]/td[@class=&quot;mat-mdc-cell mdc-data-table__cell cdk-cell mapno cdk-column-mapno mat-column-mapno ng-star-inserted&quot;]/button[@class=&quot;mat-mdc-menu-trigger button-text text-left h-100 w-100 mdc-button mat-mdc-button active active-dropdown mat-unthemed mat-mdc-button-base ng-star-inserted flex-box cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mdc-button__label&quot;]/span[@class=&quot;button-label&quot;]</value>
+      <webElementGuid>91c766d3-9c61-4785-ab9d-63ad52e5dbde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tbGrid']/table/tbody/tr[85]/td[11]/button/span[2]/span</value>
+      <webElementGuid>84114711-6355-4dfc-b7ee-a2f6b8144c7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::span[3]</value>
+      <webElementGuid>f3964a1e-5dc9-47f4-a33e-ddae1975f200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acc No.'])[2]/following::span[3]</value>
+      <webElementGuid>5fc1785e-c4e9-4475-8ec3-0751248258be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/preceding::span[4]</value>
+      <webElementGuid>450f8197-92de-4f95-aa76-c569a756ba27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[3]/preceding::span[5]</value>
+      <webElementGuid>736b6c9b-5d97-4911-8dd5-7264a008086c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='-']/parent::*</value>
+      <webElementGuid>cf29c749-019d-4bc0-a784-356b24564cbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[85]/td[11]/button/span[2]/span</value>
+      <webElementGuid>cff830d0-e6e3-49ca-abab-a3b6739c71dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' - ' or . = ' - ')]</value>
+      <webElementGuid>4d37bbd1-29ca-4fa4-b32e-9d62a9fa027d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

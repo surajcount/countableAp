@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>AdjEntryNewAccounts-Validate and Pushback</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>41900b3f-3f47-4315-bcbe-0164dd86b965</testSuiteGuid>
+   <testCaseLink>
+      <guid>aa582b93-8735-4099-8bf2-8185c449e036</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TB/Source Flow/19.1-AdjEntryNewAccount-ValidateFlow</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a8a75241-f3b6-42db-a9bf-ba46784ca724</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9bd71668-ee5c-4d2b-aaf7-a5314b937859</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TB/Source Flow/19.1.1-AdjEntryNewAccount-ValidateFlow -Update to source</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d282590a-4ea0-483e-b460-f2b163b777e8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6fcfd2b5-b305-4eaf-94f0-f3b6e36e3078</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4b33fd33-517e-4513-b891-b860efe71862</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8b1952eb-817f-4592-ae04-7ded5a0225d4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TB/Source Flow/19.2-AdjEntryNewAccount-PushbackFlow</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>81e6446b-38a3-4627-9292-16dc87ecee14</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>18.4-AdjEntryRestrictedAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>825d6d8e-a36b-470a-9372-c97b15ea7260</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8e4af5fb-8431-4a56-b687-a991ea11aac6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.clientEntityName</defaultValue>
+      <description></description>
+      <id>8e4af5fb-8431-4a56-b687-a991ea11aac6</id>
+      <masked>false</masked>
+      <name>engagementClick</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>8-CreateEngagement-Canada-ClientAdding</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7b42259-0d42-47d7-94b7-c84f1e460292</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f32eda3b-31e3-4a1c-8b64-8754d1272a62</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9389f68f-ae9f-4ff0-ada0-fb518d0e53f8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.clientEntityNameLetter</defaultValue>
+      <description></description>
+      <id>f32eda3b-31e3-4a1c-8b64-8754d1272a62</id>
+      <masked>false</masked>
+      <name>clientEntityNameLetter</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.clientEmailAddressLetter</defaultValue>
+      <description></description>
+      <id>9389f68f-ae9f-4ff0-ada0-fb518d0e53f8</id>
+      <masked>false</masked>
+      <name>clientEmailAddressLetter</name>
+   </variable>
+</TestCaseEntity>

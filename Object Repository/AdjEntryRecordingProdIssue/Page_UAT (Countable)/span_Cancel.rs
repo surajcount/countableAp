@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cancel</name>
+   <tag></tag>
+   <elementGuidId>52c2ec3c-f8eb-4021-8ee9-79a97d08adc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-0']/mat-datepicker-content/div[2]/div/button/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button-small.flex-1.mdc-button.mat-mdc-button.mdc-button--outlined.mat-mdc-outlined-button.mat-dark.mat-mdc-button-base.cdk-focused.cdk-mouse-focused > span.mdc-button__label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>29b0f148-f0c0-4b13-9db3-9e62fc14d1cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-button__label</value>
+      <webElementGuid>b28d3e14-b5f1-4049-95fe-0828966a6ce2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancel</value>
+      <webElementGuid>c0dc337c-b634-40bb-9804-77b374e3d8fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-0&quot;)/mat-datepicker-content[@class=&quot;mat-datepicker-content ng-tns-c1807714112-11 ng-trigger ng-trigger-transformPanel mat-primary ng-star-inserted&quot;]/div[@class=&quot;mat-datepicker-content-container ng-tns-c1807714112-11 mat-datepicker-content-container-with-actions&quot;]/div[@class=&quot;mat-datepicker-actions ng-star-inserted&quot;]/button[@class=&quot;button-small flex-1 mdc-button mat-mdc-button mdc-button--outlined mat-mdc-outlined-button mat-dark mat-mdc-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mdc-button__label&quot;]</value>
+      <webElementGuid>2f4110b4-deb6-48ed-9fea-6a4d418609bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-0']/mat-datepicker-content/div[2]/div/button/span[2]</value>
+      <webElementGuid>a5c088bf-1400-41ad-ba1f-bb472fee1797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEC'])[1]/following::span[64]</value>
+      <webElementGuid>2889ab21-2866-4d83-8677-85a1c3e86d0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saturday'])[1]/following::span[65]</value>
+      <webElementGuid>c1246676-7a2b-4347-ae99-0489b31dd99f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/preceding::span[5]</value>
+      <webElementGuid>3dabd024-51ac-41d6-aa0d-ce483f0ad186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close calendar'])[1]/preceding::span[9]</value>
+      <webElementGuid>8e9589c0-b9ce-4b35-aa58-d1e538c84c3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button/span[2]</value>
+      <webElementGuid>5af2ddb9-48a1-4e37-9809-4845fdfbd1bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cancel' or . = 'Cancel')]</value>
+      <webElementGuid>4d658ec8-8360-479a-b439-b8e3ec2e6717</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

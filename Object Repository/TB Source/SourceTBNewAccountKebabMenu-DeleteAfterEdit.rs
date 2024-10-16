@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SourceTBNewAccountKebabMenu-DeleteAfterEdit</name>
+   <tag></tag>
+   <elementGuidId>d454bac6-30ce-4910-b80c-ad80daef7320</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-mdc-menu-trigger.button-text.ms-3.hover-action-item.mdc-button.mat-mdc-button.mat-unthemed.mat-mdc-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mdc-button__label > img[alt=&quot;menu&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[contains(@title,'Automation Edit')]/preceding-sibling::td[3]//button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>97f07fe1-4390-4b99-905a-85d8ae2e8a47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/images/ui-uplift-icons/global/kebab-menu-icon.svg</value>
+      <webElementGuid>8f1c97ac-e233-4b12-81d5-1f88001305be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>menu</value>
+      <webElementGuid>6cd2bf29-2a1b-401c-a06f-402fc3e8d5c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbGrid&quot;)/table[@class=&quot;mat-mdc-table mdc-data-table__table cdk-table m-0 table-countable cell-p-8 hover-action trialBalTable customized-sort post-adjusting-selectedrow-color&quot;]/tbody[@class=&quot;mdc-data-table__content&quot;]/tr[@class=&quot;mat-mdc-row mdc-data-table__row cdk-row addedtwo ng-star-inserted&quot;]/td[@class=&quot;mat-mdc-cell mdc-data-table__cell cdk-cell position-relative cdk-column-accountactions mat-column-accountactions ng-star-inserted&quot;]/button[@class=&quot;mat-mdc-menu-trigger button-text ms-3 hover-action-item mdc-button mat-mdc-button mat-unthemed mat-mdc-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mdc-button__label&quot;]/img[1]</value>
+      <webElementGuid>fe9e85bf-bb96-464b-85e2-23b49f2f05da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[contains(@title,'Automation Edit')]/preceding-sibling::td[3]//button</value>
+      <webElementGuid>1a684ada-ebdb-4821-8cc0-78f1a12634f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='menu'])[238]</value>
+      <webElementGuid>89e6e307-f4ca-4b33-b39d-9a0ef0a9641a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[207]/td/button/span[2]/img</value>
+      <webElementGuid>b5ef1f17-c4f1-473e-bce4-3144f055a99d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/images/ui-uplift-icons/global/kebab-menu-icon.svg' and @alt = 'menu']</value>
+      <webElementGuid>bc804891-1198-4279-9e94-29c94e9082a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

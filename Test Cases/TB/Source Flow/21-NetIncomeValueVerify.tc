@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>21-NetIncomeValueVerify</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ebd9615d-9489-4076-8fc7-d7b7d1a2f95a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4dd31f4a-1559-4ef1-9bb5-0fe2f0cca4a9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.clientEntityName</defaultValue>
+      <description></description>
+      <id>4dd31f4a-1559-4ef1-9bb5-0fe2f0cca4a9</id>
+      <masked>false</masked>
+      <name>engagementClick</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1-CheckTBLoaded</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>70198b96-139c-421d-b8e4-a082da422aba</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cec4e193-49d0-457b-997b-2e896c65dc65</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.workbookClient</defaultValue>
+      <description></description>
+      <id>cec4e193-49d0-457b-997b-2e896c65dc65</id>
+      <masked>false</masked>
+      <name>workbookClientName</name>
+   </variable>
+</TestCaseEntity>

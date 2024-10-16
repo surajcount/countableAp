@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_COM-AUT-Dec312023</name>
+   <tag></tag>
+   <elementGuidId>d2a2c518-794d-4e50-bf7f-00324055e3c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-expansion-panel-header[@id='mat-expansion-panel-header-0']/span/div/div/button/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.text-ellipse.text-button.mdc-button.mat-mdc-button.mat-unthemed.mat-mdc-button-base.cdk-focused.cdk-mouse-focused > span.mdc-button__label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#mat-expansion-panel-header-0 >> internal:role=button[name=&quot;COM-AUT-Dec312023&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>56654340-01d0-41c7-b608-14ed44fff428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-button__label</value>
+      <webElementGuid>6e6ac720-2000-448e-8b33-4a9d113e5925</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>COM-AUT-Dec312023</value>
+      <webElementGuid>fd8a6539-6be6-4ba0-9bbd-0cac3a1e8f8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-expansion-panel-header-0&quot;)/span[@class=&quot;mat-content ng-tns-c1676997785-11&quot;]/div[@class=&quot;ft-row border-0 ng-tns-c1676997785-11&quot;]/div[@class=&quot;ft-cell engagement-id&quot;]/button[@class=&quot;text-ellipse text-button mdc-button mat-mdc-button mat-unthemed mat-mdc-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mdc-button__label&quot;]</value>
+      <webElementGuid>2a02a919-1ead-451d-bc80-0601f6c6377d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel-header[@id='mat-expansion-panel-header-0']/span/div/div/button/span[2]</value>
+      <webElementGuid>fb75232b-0bb8-4266-8494-b4371234542e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search engagements'])[1]/following::span[7]</value>
+      <webElementGuid>cd24ec5c-21fb-4e4b-8f52-c57bc800e4d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Engagements'])[2]/following::span[8]</value>
+      <webElementGuid>ce4b496c-bcf3-4657-a9e3-938dc6af44b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EL'])[1]/preceding::span[4]</value>
+      <webElementGuid>55b85c1e-0a24-4097-97d2-f1240a595fdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Firm Team'])[1]/preceding::span[17]</value>
+      <webElementGuid>a787c27d-c642-4c1f-9858-34750aad2218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='COM-AUT-Dec312023']/parent::*</value>
+      <webElementGuid>3613b83b-537d-415c-acb4-4a161a0ad3f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button/span[2]</value>
+      <webElementGuid>049664f9-ecba-4955-a402-c560552263e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'COM-AUT-Dec312023' or . = 'COM-AUT-Dec312023')]</value>
+      <webElementGuid>c60aee74-ff07-44da-b971-a8b150821b46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

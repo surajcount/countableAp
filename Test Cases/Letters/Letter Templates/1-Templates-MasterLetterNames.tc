@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1-Templates-MasterLetterNames</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9bb9b044-5db3-425f-82f5-508496e96a0c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4ed1a256-9a18-40a4-9d1c-29995f50220c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e8360b2a-168c-461b-b44b-d8d747be93f8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.expectedLetterData</defaultValue>
+      <description></description>
+      <id>4ed1a256-9a18-40a4-9d1c-29995f50220c</id>
+      <masked>false</masked>
+      <name>expectedtextLetter</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>e8360b2a-168c-461b-b44b-d8d747be93f8</id>
+      <masked>false</masked>
+      <name>comLetter</name>
+   </variable>
+</TestCaseEntity>

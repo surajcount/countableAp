@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3-Templates-VerifyCom-EL and Mgmt Letter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d0a1722d-32d0-40c7-83a9-18360437d0fd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d94e3651-8bda-425b-944e-2ff6d62dee7b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fa7f0ddf-15cb-4c6d-87f2-db484335ef14</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.expectedLetterData</defaultValue>
+      <description></description>
+      <id>d94e3651-8bda-425b-944e-2ff6d62dee7b</id>
+      <masked>false</masked>
+      <name>expectedtextLetter</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>fa7f0ddf-15cb-4c6d-87f2-db484335ef14</id>
+      <masked>false</masked>
+      <name>comLetter</name>
+   </variable>
+</TestCaseEntity>

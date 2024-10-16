@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1-EngagementCreation - COM</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c119d0bc-c56b-4d59-8eba-ba1d55349e0e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d0b4b22a-6177-4b76-87e6-87e51380c630</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.csvClient</defaultValue>
+      <description></description>
+      <id>d0b4b22a-6177-4b76-87e6-87e51380c630</id>
+      <masked>false</masked>
+      <name>csvClient</name>
+   </variable>
+</TestCaseEntity>

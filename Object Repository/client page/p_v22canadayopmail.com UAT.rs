@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_v22canadayopmail.com UAT</name>
+   <tag></tag>
+   <elementGuidId>c7e709d0-1fb4-49a2-9071-29532fc11816</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;afb8ad8b8f4b-0&quot;)/div[@class=&quot;partner-details d-flex flex-nowrap align-items-center gap-4 ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-column&quot;]/p[@class=&quot;text-ellipse&quot;][count(. | //p[@class = 'text-ellipse' and @title = 'uatcanada25@yopmail.com' and (text() = ' uatcanada25@yopmail.com ' or . = ' uatcanada25@yopmail.com ')]) = count(//p[@class = 'text-ellipse' and @title = 'uatcanada25@yopmail.com' and (text() = ' uatcanada25@yopmail.com ' or . = ' uatcanada25@yopmail.com ')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[contains(text(),'pravinpatiluat@yopmail.com') or contains(text(),'v29canada@yopmail.com') or contains(text(),'canadaangular@yopmail.com') or contains(text(),'v30canada@yopmail.com') or contains(text(),'uatv30.1reg@yopmail.com') or contains(text(),'usuatstripe@yopmail.com')]&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;uatcanada25@yopmail.com&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fa9af36c-14a1-460c-9349-f959e6e88ef8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-ellipse</value>
+      <webElementGuid>b3fcde6a-a148-4662-8dd6-771ad2578d24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>uatcanada25@yopmail.com</value>
+      <webElementGuid>1a4bc69b-55de-4eae-8773-8fc918d61896</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> uatcanada25@yopmail.com </value>
+      <webElementGuid>192b6b8e-ef32-45d5-9403-f5c59cab03d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;afb8ad8b8f4b-0&quot;)/div[@class=&quot;partner-details d-flex flex-nowrap align-items-center gap-4 ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-column&quot;]/p[@class=&quot;text-ellipse&quot;]</value>
+      <webElementGuid>7cd93400-2b4c-4d40-b8ca-06248f8a2445</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@title='v22canada@yopmail.com']</value>
+      <webElementGuid>707f842f-e504-4973-b355-22c9bb5bd025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CU'])[3]/following::p[2]</value>
+      <webElementGuid>847dccec-f21b-454c-b0d9-292051298697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::p[2]</value>
+      <webElementGuid>c378bed1-e35e-4168-b0c5-77c60c7e4f89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MP'])[1]/preceding::p[2]</value>
+      <webElementGuid>89ef85fe-6e8e-44bf-87e4-b5cf171dea5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JP'])[1]/preceding::p[5]</value>
+      <webElementGuid>b9a557a7-c351-4bfd-bef1-fde15b1e397d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='uatcanada25@yopmail.com']/parent::*</value>
+      <webElementGuid>c457de5f-42eb-4c07-8eab-b6e0228270c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>fba1e0b4-591a-414a-962c-35f72056c541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@title = 'uatcanada25@yopmail.com' and (text() = ' uatcanada25@yopmail.com ' or . = ' uatcanada25@yopmail.com ')]</value>
+      <webElementGuid>242901db-cc1b-4f82-a2f8-76045739b38d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

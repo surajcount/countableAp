@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>15-CSVKebabMenu-Duplicate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d4b4e464-7422-4a93-8f82-31bd0a6ff44e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4.1-Templates-Com-FirmTemplate-Verify Blank Letter Template</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d3000abe-a292-4b14-a71a-99200cf3434a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>99f7c509-2a95-4b17-8936-a45cef0ef2f5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Blank Auto Report'</defaultValue>
+      <description>Letter template - TC4</description>
+      <id>99f7c509-2a95-4b17-8936-a45cef0ef2f5</id>
+      <masked>false</masked>
+      <name>blankReportName</name>
+   </variable>
+</TestCaseEntity>

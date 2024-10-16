@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2-Templates-Com-MasterToFirm</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0a50502c-2d16-4c2d-a191-e8ca057fe2df</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>107b08c3-ea95-417b-8ebe-225cc0465798</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>37002979-e5d4-4b91-87cd-a8b4668976df</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.expectedLetterData</defaultValue>
+      <description></description>
+      <id>107b08c3-ea95-417b-8ebe-225cc0465798</id>
+      <masked>false</masked>
+      <name>expectedtextLetter</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>37002979-e5d4-4b91-87cd-a8b4668976df</id>
+      <masked>false</masked>
+      <name>comLetter</name>
+   </variable>
+</TestCaseEntity>

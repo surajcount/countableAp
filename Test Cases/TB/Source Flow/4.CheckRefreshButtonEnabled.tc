@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4.CheckRefreshButtonEnabled</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b9d82fdd-c0ff-4150-a7bf-a79ad5f4caf3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d13c78c5-6aad-47f9-b8cc-1e55b016a0bf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.clientEntityName</defaultValue>
+      <description></description>
+      <id>d13c78c5-6aad-47f9-b8cc-1e55b016a0bf</id>
+      <masked>false</masked>
+      <name>engagementClick</name>
+   </variable>
+</TestCaseEntity>

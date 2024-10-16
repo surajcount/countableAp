@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>22-CSV-TBAdjEntry-AddAllJEType</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8e0d8297-8201-485c-8e31-ef7002310e11</testCaseGuid>
+</TestCaseEntity>

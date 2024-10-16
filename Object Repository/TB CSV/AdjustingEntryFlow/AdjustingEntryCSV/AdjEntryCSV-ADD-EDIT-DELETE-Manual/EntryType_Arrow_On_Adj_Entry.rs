@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>EntryType_Arrow_On_Adj_Entry</name>
+   <tag></tag>
+   <elementGuidId>cb552a26-d294-4742-98de-11080f7375e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Journal'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-arrow-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>90246710-ded6-4a55-bdeb-7a2bb54e8cf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-arrow-wrapper</value>
+      <webElementGuid>08ca3e25-1e6d-4949-8a75-bc968b033bc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-adjustment-entry[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-wraper adjustment-deactive&quot;]/div[@class=&quot;content-block-main postpost-adjusting-entry-container overflow-hidden&quot;]/form[@class=&quot;adjusting-entry-form horizontal-items gap-8 h-100 overflow-hidden ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;vertical-items align-items-end gap-8 custom-dropdown-width&quot;]/div[@class=&quot;ng-form-field required entry-type ng-star-inserted&quot;]/ng-select[@class=&quot;ng-select-searchable ng-select ng-select-single ng-pristine ng-valid ng-select-focused ng-touched ng-select-opened ng-select-bottom&quot;]/div[@class=&quot;ng-select-container ng-has-value&quot;]/span[@class=&quot;ng-arrow-wrapper&quot;]</value>
+      <webElementGuid>1ea0ac7e-780a-4baf-baa0-c0f5fb9b58c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Journal'])[1]/following::span[1]</value>
+      <webElementGuid>86a18e2f-2007-4c82-ae54-2c01aaccd901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[3]</value>
+      <webElementGuid>f38ff732-9855-4160-8d0a-b0eb348dc449</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Journal'])[2]/preceding::span[2]</value>
+      <webElementGuid>cc63925e-30a1-406f-b217-1edc3f215dd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eliminating'])[1]/preceding::span[3]</value>
+      <webElementGuid>d10e9979-608a-4068-9c78-705ae1eb3616</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-select/div/span</value>
+      <webElementGuid>3a6996bc-18ef-4a0e-adea-ba9fb34eaeef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5.TBSearchField</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8f15d99d-ab3f-4859-bdfc-265d68f0774e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aa033599-5c10-4125-92c1-70087531db5e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.clientEntityName</defaultValue>
+      <description></description>
+      <id>aa033599-5c10-4125-92c1-70087531db5e</id>
+      <masked>false</masked>
+      <name>engagementClick</name>
+   </variable>
+</TestCaseEntity>

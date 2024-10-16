@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3.4-Templates-Com-FirmTemplate-Kebab-Delete</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>08e674bd-c60b-42c4-a160-d7c8b54bc4d4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cd3752e5-25a5-420f-94bd-cf84df64fe95</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>88baf435-f000-434d-bf98-63422d7e9b9f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.expectedLetterData</defaultValue>
+      <description></description>
+      <id>cd3752e5-25a5-420f-94bd-cf84df64fe95</id>
+      <masked>false</masked>
+      <name>expectedtextLetter</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>88baf435-f000-434d-bf98-63422d7e9b9f</id>
+      <masked>false</masked>
+      <name>comLetter</name>
+   </variable>
+</TestCaseEntity>

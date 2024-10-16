@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>20.3-Adj Entry CY - Verify datePicker(3Yrs validation)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cd542004-13f9-424b-af2c-68964ffa8557</testCaseGuid>
+</TestCaseEntity>

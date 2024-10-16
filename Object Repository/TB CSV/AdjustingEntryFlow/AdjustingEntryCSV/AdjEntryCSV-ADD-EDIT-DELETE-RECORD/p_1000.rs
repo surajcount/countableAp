@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_1000</name>
+   <tag></tag>
+   <elementGuidId>b52214a5-640d-48eb-8f5b-b4c624674aae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a6cce8ad71b7-3']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p[title='1000']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;a6cce8ad71b7-3&quot;)/div[@class=&quot;flexbox-row gap-0 ng-star-inserted&quot;]/p[@class=&quot;flex-1 text-ellipse p-2&quot;][count(. | //p[@class = 'flex-1 text-ellipse p-2' and @title = '1000' and (text() = ' 1000 ' or . = ' 1000 ')]) = count(//p[@class = 'flex-1 text-ellipse p-2' and @title = '1000' and (text() = ' 1000 ' or . = ' 1000 ')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;1000&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>15e6ff45-b6d3-43f0-89e0-a89259a6d9a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-1 text-ellipse p-2</value>
+      <webElementGuid>b4803d99-1e89-4370-b0a5-db64ce3a9ea5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>1000</value>
+      <webElementGuid>12adb722-6ca0-4547-9819-6655ca959b9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 1000 </value>
+      <webElementGuid>27ec1539-4ec2-46ab-a050-0c1512d21d21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a6cce8ad71b7-3&quot;)/div[@class=&quot;flexbox-row gap-0 ng-star-inserted&quot;]/p[@class=&quot;flex-1 text-ellipse p-2&quot;]</value>
+      <webElementGuid>942c2d50-0d91-4a94-aed0-a63dd0a7a5c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a6cce8ad71b7-3']/div/p</value>
+      <webElementGuid>f151f14f-8367-44f6-a818-a51ea043c62d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[2]/following::p[9]</value>
+      <webElementGuid>59e4c65f-f863-433e-8a05-53c93b0ed696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test4097'])[1]/following::p[9]</value>
+      <webElementGuid>438b37cf-3e4f-4e56-90e6-cfa0b6688a62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type here to search'])[2]/preceding::p[16]</value>
+      <webElementGuid>a816575c-59de-445c-a189-e3f2ec769189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/preceding::p[16]</value>
+      <webElementGuid>8fb105f4-2f02-4f62-98e0-d4818dbbb380</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1000']/parent::*</value>
+      <webElementGuid>7c03f85f-780a-4ccf-8e09-439e0e5c9cb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/p</value>
+      <webElementGuid>eb81a6bf-a2c6-4266-bc63-0d79d5b08145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@title = '1000' and (text() = ' 1000 ' or . = ' 1000 ')]</value>
+      <webElementGuid>db69a027-f9a4-451b-9648-8f9baa5d1270</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

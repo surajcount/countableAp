@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_COM-AUT-Dec312023</name>
+   <tag></tag>
+   <elementGuidId>25390834-3421-40d8-ac6e-93f4256ef35a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-expansion-panel-header[@id='mat-expansion-panel-header-0']/span/div/div/button/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.text-ellipse.text-button.mdc-button.mat-mdc-button.mat-unthemed.mat-mdc-button-base.cdk-focused.cdk-mouse-focused > span.mdc-button__label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e3feda1c-6d9e-4e7a-a531-847ff8db02ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-button__label</value>
+      <webElementGuid>5c20c040-d4b6-4c5c-8f61-662adfe3851a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>COM-AUT-Dec312023</value>
+      <webElementGuid>b5a63a83-d809-4190-a5d9-3ccbf535cde0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-expansion-panel-header-0&quot;)/span[@class=&quot;mat-content ng-tns-c1676997785-11&quot;]/div[@class=&quot;ft-row border-0 ng-tns-c1676997785-11&quot;]/div[@class=&quot;ft-cell engagement-id&quot;]/button[@class=&quot;text-ellipse text-button mdc-button mat-mdc-button mat-unthemed mat-mdc-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mdc-button__label&quot;]</value>
+      <webElementGuid>9ce86e26-4e3b-4bca-9db0-a644695d03b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel-header[@id='mat-expansion-panel-header-0']/span/div/div/button/span[2]</value>
+      <webElementGuid>a676d7c9-5212-4b57-ab6a-ab10d34075f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search engagements'])[1]/following::span[7]</value>
+      <webElementGuid>87eaf4ff-19a0-4202-aad7-5d4e27f6f29e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Engagements'])[2]/following::span[8]</value>
+      <webElementGuid>f200c61a-1aa7-4405-9339-84e4d77e3a29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EL'])[1]/preceding::span[4]</value>
+      <webElementGuid>dc42bf5e-eea0-49b3-8ff5-1b5471f13add</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Firm Team'])[1]/preceding::span[17]</value>
+      <webElementGuid>1916d5bd-7ff9-4336-b236-b8972ed655b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='COM-AUT-Dec312023']/parent::*</value>
+      <webElementGuid>3d493a95-17c3-4254-b4ac-cf330214dfa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button/span[2]</value>
+      <webElementGuid>aedf9155-7738-4996-8e14-969b5d73c34a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'COM-AUT-Dec312023' or . = 'COM-AUT-Dec312023')]</value>
+      <webElementGuid>e40e57d1-90d1-4f54-a2fd-0524eea55cdf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

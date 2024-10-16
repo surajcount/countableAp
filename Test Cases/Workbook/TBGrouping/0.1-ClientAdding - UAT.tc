@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>0.1-ClientAdding - UAT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2f6661ed-6703-4171-9eff-ca79a6f2c240</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>73adf986-42e0-4c6a-8ccf-341a38ea3f55</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8fc52653-dcc6-4868-a73e-c77696f5f956</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bf2a281e-36ab-4319-a46d-68ee1d47d228</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.workbookClient</defaultValue>
+      <description></description>
+      <id>73adf986-42e0-4c6a-8ccf-341a38ea3f55</id>
+      <masked>false</masked>
+      <name>workbookClient</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.engagementPartner</defaultValue>
+      <description></description>
+      <id>8fc52653-dcc6-4868-a73e-c77696f5f956</id>
+      <masked>false</masked>
+      <name>engagementPartner</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.workbookClientEmail</defaultValue>
+      <description></description>
+      <id>bf2a281e-36ab-4319-a46d-68ee1d47d228</id>
+      <masked>false</masked>
+      <name>workbookClientEmail</name>
+   </variable>
+</TestCaseEntity>

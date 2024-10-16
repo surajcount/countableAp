@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>19.1.1-AdjEntryNewAccount-ValidateFlow -Update to source</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d4bc86b4-e9e8-4bc9-8e18-cfa82c257c66</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d282590a-4ea0-483e-b460-f2b163b777e8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6fcfd2b5-b305-4eaf-94f0-f3b6e36e3078</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4b33fd33-517e-4513-b891-b860efe71862</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.clientEntityName</defaultValue>
+      <description></description>
+      <id>d282590a-4ea0-483e-b460-f2b163b777e8</id>
+      <masked>false</masked>
+      <name>engagementClick</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.scrollToElement</defaultValue>
+      <description></description>
+      <id>6fcfd2b5-b305-4eaf-94f0-f3b6e36e3078</id>
+      <masked>false</masked>
+      <name>scrollToAut3</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.addTagRed</defaultValue>
+      <description></description>
+      <id>4b33fd33-517e-4513-b891-b860efe71862</id>
+      <masked>false</masked>
+      <name>addTagRed</name>
+   </variable>
+</TestCaseEntity>

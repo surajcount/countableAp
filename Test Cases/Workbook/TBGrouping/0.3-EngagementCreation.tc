@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>0.3-EngagementCreation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>43cc8f02-cbff-4b50-9c0d-de947583d0e3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e00ed0f3-3576-49d6-86e4-e119e9218ecc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.workbookClient</defaultValue>
+      <description></description>
+      <id>e00ed0f3-3576-49d6-86e4-e119e9218ecc</id>
+      <masked>false</masked>
+      <name>workbookClient</name>
+   </variable>
+</TestCaseEntity>

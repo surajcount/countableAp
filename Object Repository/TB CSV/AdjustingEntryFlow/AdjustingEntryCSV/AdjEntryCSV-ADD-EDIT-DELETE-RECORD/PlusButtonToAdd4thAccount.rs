@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PlusButtonToAdd4thAccount</name>
+   <tag></tag>
+   <elementGuidId>ab5ffd86-3a21-4cf5-97b5-6b247c0b2994</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button[class='button-medium mdc-button mat-mdc-button mdc-button--outlined mat-mdc-outlined-button mat-dark mat-mdc-button-base ng-star-inserted cdk-focused cdk-mouse-focused'] span[class='mat-mdc-button-touch-target']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/app-adjustment-entry/div/div[3]/form/div[2]/div/div[1]/table/tbody/tr[3]/td[5]/div/button[2]/span[2]/img</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/app-root[1]/app-adjustment-entry[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-wraper adjustment-deactive&quot;]/div[@class=&quot;content-block-main postpost-adjusting-entry-container overflow-hidden&quot;]/form[@class=&quot;adjusting-entry-form horizontal-items gap-8 h-100 overflow-hidden ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;card h-100 overflow-auto&quot;]/div[@class=&quot;card-body p-0 gap-20 pb-20&quot;]/div[@class=&quot;vertical-items align-items-start w-100&quot;]/table[@class=&quot;table-countable fixed-header cell-p-8 w-100 border-bottom&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[2]/div[@class=&quot;ng-form-field table-option-dropdown w-100&quot;]/ng-select[@class=&quot;ng-select-searchable ng-select ng-select-single ng-untouched ng-pristine ng-valid ng-select-focused ng-select-opened ng-select-bottom&quot;]/div[@class=&quot;ng-select-container ng-has-value&quot;]/span[@class=&quot;ng-arrow-wrapper&quot;][count(. | //span[@class = 'ng-arrow-wrapper']) = count(//span[@class = 'ng-arrow-wrapper'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;test4097 Options list&quot;i] >> span >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ffcfe418-4553-42fe-98f6-ef40835d691c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-arrow-wrapper</value>
+      <webElementGuid>4ec48d5f-4836-43b8-8828-f44b50bbc294</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-adjustment-entry[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-wraper adjustment-deactive&quot;]/div[@class=&quot;content-block-main postpost-adjusting-entry-container overflow-hidden&quot;]/form[@class=&quot;adjusting-entry-form horizontal-items gap-8 h-100 overflow-hidden ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;card h-100 overflow-auto&quot;]/div[@class=&quot;card-body p-0 gap-20 pb-20&quot;]/div[@class=&quot;vertical-items align-items-start w-100&quot;]/table[@class=&quot;table-countable fixed-header cell-p-8 w-100 border-bottom&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[2]/div[@class=&quot;ng-form-field table-option-dropdown w-100&quot;]/ng-select[@class=&quot;ng-select-searchable ng-select ng-select-single ng-untouched ng-pristine ng-valid ng-select-focused ng-select-opened ng-select-bottom&quot;]/div[@class=&quot;ng-select-container ng-has-value&quot;]/span[@class=&quot;ng-arrow-wrapper&quot;]</value>
+      <webElementGuid>04a66d8f-f261-4a8b-a5b5-3244e9c00054</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-adjustment-entry/div/div[3]/form/div[2]/div/div[1]/table/tbody/tr[3]/td[5]/div/button[2]/span[2]/img</value>
+      <webElementGuid>3548cba6-3c87-4eaa-b0a9-47c48a7d25b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type here to search'])[1]/following::span[3]</value>
+      <webElementGuid>b840a439-bc5c-4a64-9950-9ae9b54c1e39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[2]/preceding::span[6]</value>
+      <webElementGuid>bd2307a3-9b8b-4703-98fe-2999dd12466b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type here to search'])[2]/preceding::span[10]</value>
+      <webElementGuid>c3832d86-4bb9-4a01-84ad-7b377f032925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/ng-select/div/span</value>
+      <webElementGuid>717419d8-1710-4b28-aeb8-489743cd03ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

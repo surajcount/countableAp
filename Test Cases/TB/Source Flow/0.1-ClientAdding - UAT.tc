@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>0.1-ClientAdding - UAT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d54d89bb-baf2-4aa5-8ea9-721ad3dbaeb8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dda13c80-4c93-4aa7-a54c-ba72c531a68f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6bdf2864-2c4a-40cd-95f4-9d8087f481b2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.clientEntityName</defaultValue>
+      <description></description>
+      <id>dda13c80-4c93-4aa7-a54c-ba72c531a68f</id>
+      <masked>false</masked>
+      <name>clientEntityName</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.clientEmailAddress</defaultValue>
+      <description></description>
+      <id>6bdf2864-2c4a-40cd-95f4-9d8087f481b2</id>
+      <masked>false</masked>
+      <name>clientEmailAddress</name>
+   </variable>
+</TestCaseEntity>

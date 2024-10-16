@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3.3-Templates-Com-FirmTemplate-Kebab-Move</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f9f51642-071b-473b-a1c6-90598e7f1e73</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5db1ecb2-691a-430e-baba-6cdcc6ad7f34</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>42cecbeb-67a2-45e6-bb88-0463a76374b5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.expectedLetterData</defaultValue>
+      <description></description>
+      <id>5db1ecb2-691a-430e-baba-6cdcc6ad7f34</id>
+      <masked>false</masked>
+      <name>expectedtextLetter</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>42cecbeb-67a2-45e6-bb88-0463a76374b5</id>
+      <masked>false</masked>
+      <name>comLetter</name>
+   </variable>
+</TestCaseEntity>

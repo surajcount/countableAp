@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>6-Templates-FirmTemplates-RHS-Edit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4415a073-e313-4a50-9ff5-8d1c5242249b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1311f256-4554-4afb-83cd-03f27ba0068e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.editduplicateRHS</defaultValue>
+      <description></description>
+      <id>1311f256-4554-4afb-83cd-03f27ba0068e</id>
+      <masked>false</masked>
+      <name>editduplicateRHS</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MapNumberSearchSelection</name>
+   <tag></tag>
+   <elementGuidId>21660771-85bb-4840-9ff6-6bf1e52cabea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[contains(.,'Inventory Asset')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-mdc-checkbox-2030 > div.mdc-form-field > label.mdc-label</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;mat-mdc-checkbox-2030&quot;)/div[@class=&quot;mdc-form-field&quot;]/label[@class=&quot;mdc-label&quot;][count(. | //label[@class = 'mdc-label' and @for = 'mat-mdc-checkbox-2030-input' and (text() = '1120.01 Inventory Asset ' or . = '1120.01 Inventory Asset ')]) = count(//label[@class = 'mdc-label' and @for = 'mat-mdc-checkbox-2030-input' and (text() = '1120.01 Inventory Asset ' or . = '1120.01 Inventory Asset ')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>736db47f-5ef0-4746-be14-3adf144a912b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-label</value>
+      <webElementGuid>eefa2d2d-bcd4-4e37-8c3d-e201b644a415</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>mat-mdc-checkbox-2030-input</value>
+      <webElementGuid>69723295-77e3-47fc-9854-fef271b819c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1120.01 Inventory Asset </value>
+      <webElementGuid>d7949131-4446-4019-a018-de19f893d5fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-mdc-checkbox-2030&quot;)/div[@class=&quot;mdc-form-field&quot;]/label[@class=&quot;mdc-label&quot;]</value>
+      <webElementGuid>ffd892ac-8c30-443d-b098-5bcb0a09a505</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[contains(.,'Inventory Asset')]</value>
+      <webElementGuid>bca8930e-7961-452f-9085-c98bd9de5385</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear All'])[1]/following::label[1]</value>
+      <webElementGuid>10e26965-ff6d-415a-bce8-bfc56600a59f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[4]/following::label[1]</value>
+      <webElementGuid>a18432da-ab38-4cb5-b236-82c5415b6a7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/mat-checkbox/div/label</value>
+      <webElementGuid>34484a2e-2fec-432b-945e-2bdebbbc6bc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '1120.01 Inventory Asset ' or . = '1120.01 Inventory Asset ')]</value>
+      <webElementGuid>60a479f0-94de-46eb-ad4d-0949125c6d2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

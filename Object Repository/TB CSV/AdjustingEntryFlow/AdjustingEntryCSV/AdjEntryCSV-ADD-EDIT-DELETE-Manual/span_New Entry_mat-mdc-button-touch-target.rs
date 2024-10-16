@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_New Entry_mat-mdc-button-touch-target</name>
+   <tag></tag>
+   <elementGuidId>0854cb35-7dd2-4172-8e71-b61ea48fed05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-mdc-button-touch-target</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c9857f55-d700-4204-984a-d9342488996f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-button-touch-target</value>
+      <webElementGuid>bd58a7e6-74de-4b38-9e54-7099b1fda049</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-adj-entry[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-wraper adjustment-active&quot;]/div[@class=&quot;content-block-main p-0 h-100 overflow-hidden&quot;]/div[@class=&quot;d-flex flex-row h-100 overflow-hidden&quot;]/div[@class=&quot;content-block-main border-top gap-20 pt-4 adjustment-entriess h-100 overflow-hidden&quot;]/div[@class=&quot;vertical-items justify-content-between&quot;]/div[@class=&quot;button-group justify-content-end button-label-xl&quot;]/button[@class=&quot;button-medium mdc-button mat-mdc-button mdc-button--unelevated mat-mdc-unelevated-button mat-primary mat-mdc-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-mdc-button-touch-target&quot;]</value>
+      <webElementGuid>6dad6cb0-96b2-42fa-9125-8934e26f33c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[4]</value>
+      <webElementGuid>b1397422-4b13-4516-aab3-95fb91e39b9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

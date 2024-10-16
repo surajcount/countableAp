@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_PDF</name>
+   <tag></tag>
+   <elementGuidId>ae3c7cca-349a-411d-9bb9-cb1d78213acb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-menu-panel-0']/div/div/button[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-mdc-menu-item.mat-mdc-focus-indicator.cdk-focused.cdk-mouse-focused > span.mat-mdc-menu-item-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=menuitem[name=&quot;PDF&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f1b018b9-66a8-48a9-a2db-1fbe41cf603d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-menu-item-text</value>
+      <webElementGuid>6ec5741f-c7d0-4400-ace9-b1548be977a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> PDF </value>
+      <webElementGuid>dfb31810-a2e5-4c0d-8671-be182ec2304a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-menu-panel-0&quot;)/div[@class=&quot;mat-mdc-menu-content ng-tns-c681116372-4&quot;]/div[@class=&quot;ng-tns-c681116372-4&quot;]/button[@class=&quot;mat-mdc-menu-item mat-mdc-focus-indicator cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-mdc-menu-item-text&quot;]</value>
+      <webElementGuid>5efd72f7-dbed-4d3a-bc8f-d6811f640950</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-menu-panel-0']/div/div/button[3]/span</value>
+      <webElementGuid>005ea9ac-e8c9-48f9-adc4-2f70bc19b5f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xero (CSV)'])[1]/following::span[1]</value>
+      <webElementGuid>1534b43a-8b24-459b-8d61-02d47da9d8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QuickBooks online (CSV)'])[1]/following::span[2]</value>
+      <webElementGuid>3072a01a-80db-4d32-b100-1f81c0f0e424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PDF']/parent::*</value>
+      <webElementGuid>78977dfe-964d-48c2-af7f-712bb9d8e825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div/button[3]/span</value>
+      <webElementGuid>076c82ba-11f6-454e-bda3-40aed312a81c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' PDF ' or . = ' PDF ')]</value>
+      <webElementGuid>9f387e69-9483-4aa0-8946-a330f3e21e43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

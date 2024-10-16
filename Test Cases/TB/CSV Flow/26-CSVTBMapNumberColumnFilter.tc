@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>26-CSVTBMapNumberColumnFilter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cdbe08f0-88fd-4b05-8191-0c5a589e7071</testCaseGuid>
+</TestCaseEntity>

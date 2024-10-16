@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Export_mat-mdc-button-touch-target</name>
+   <tag></tag>
+   <elementGuidId>ec259e30-6818-4c4e-93fd-64cf996b6c1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-mdc-menu-trigger.button-medium.mdc-button.mat-mdc-button.mdc-button--outlined.mat-mdc-outlined-button.mat-dark.mat-mdc-button-base.cdk-focused.cdk-mouse-focused > span.mat-mdc-button-touch-target</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/app-adj-entry/div[1]/div[2]/div[2]/div[2]/div[1]/div/button[2]/span[2]/img[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Export&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a3ba9e33-511d-446a-9956-53dec10a75c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-button-touch-target</value>
+      <webElementGuid>ccdc5b8b-575b-4e2b-ad81-0c1305867992</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-adj-entry[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-wraper adjustment-active&quot;]/div[@class=&quot;content-block-main p-0 h-100 overflow-hidden&quot;]/div[@class=&quot;d-flex flex-row h-100 overflow-hidden&quot;]/div[@class=&quot;content-block-main border-top gap-20 pt-4 adjustment-entriess h-100 overflow-hidden&quot;]/div[@class=&quot;vertical-items justify-content-between&quot;]/div[@class=&quot;button-group justify-content-end button-label-xl&quot;]/button[@class=&quot;mat-mdc-menu-trigger button-medium mdc-button mat-mdc-button mdc-button--outlined mat-mdc-outlined-button mat-dark mat-mdc-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-mdc-button-touch-target&quot;]</value>
+      <webElementGuid>6c5605c6-af5d-4175-9403-48c557e3f2a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span[4]</value>
+      <webElementGuid>7e672bda-19fb-4e7c-b142-cb52fd516d8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

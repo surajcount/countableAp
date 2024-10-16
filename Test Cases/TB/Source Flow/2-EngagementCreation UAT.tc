@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2-EngagementCreation UAT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fd4d549d-8084-44f6-901f-da276526adb0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ddfadf6f-1680-4c95-877c-47cf074213a2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0772a3b7-38c3-4e6f-abe3-3d4bae732aab</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.clientEntityName</defaultValue>
+      <description></description>
+      <id>ddfadf6f-1680-4c95-877c-47cf074213a2</id>
+      <masked>false</masked>
+      <name>clientSelection</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.clientNameTeam</defaultValue>
+      <description></description>
+      <id>0772a3b7-38c3-4e6f-abe3-3d4bae732aab</id>
+      <masked>false</masked>
+      <name>clientTeamMember</name>
+   </variable>
+</TestCaseEntity>

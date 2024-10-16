@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Source TB - Client Name</description>
+      <initValue>'Automation V31'</initValue>
+      <name>clientEntityName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Source TB - Client Email Id</description>
+      <initValue>'Automationv31@yopmail.com'</initValue>
+      <name>clientEmailAddress</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Source TB - Add Team Create Engagement</description>
+      <initValue>'Canada Thirty '</initValue>
+      <name>clientNameTeam</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>as scroll is not working we are scrolling till 1 element before the actual requirement</description>
+      <initValue>'xero prod test'</initValue>
+      <name>scrollToElement</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Automation3'</initValue>
+      <name>addTagRed</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Automation Edit Duplicate RHS'</initValue>
+      <name>editduplicateRHS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>can be changed based on what we want to check and uncheck section</description>
+      <initValue>'Intended Use of the Compiled Financial Information'</initValue>
+      <name>sectionCheckbox</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>can be changed to which ever section we want to edit</description>
+      <initValue>'Our Responsibilities'</initValue>
+      <name>sectionEdit</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>can be changed to which ever section we want to edit</description>
+      <initValue>'Management\'s Responsibilities'</initValue>
+      <name>sectionDelete</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Reporting'</initValue>
+      <name>sectionLock</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Use of Information'</initValue>
+      <name>sectionEditMiddleSection</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'New Section @123'</initValue>
+      <name>NewSectionInsideTemplates</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Client Name for Letter</description>
+      <initValue>'Letter Automation'</initValue>
+      <name>clientEntityNameLetter</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Letter Email client</description>
+      <initValue>'LetterAutomation@yopmail.com'</initValue>
+      <name>clientEmailAddressLetter</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>CSV TB - Client Name</description>
+      <initValue>'Automation CSV'</initValue>
+      <name>csvClient</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>CSV TB - Client eMAIL</description>
+      <initValue>'AutomationCSVUAT@yopmail.com'</initValue>
+      <name>csvClientEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Partner for CSV client</description>
+      <initValue>'v30canada@yopmail.com'</initValue>
+      <name>engagementPartner</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Workbook Client'</initValue>
+      <name>workbookClient</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'tbgrouping@yopmail.com'</initValue>
+      <name>workbookClientEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Automation Letter US'</initValue>
+      <name>clientEntityNameLetterUS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'usletterautomation@yopmail.com'</initValue>
+      <name>clientEmailAddressLetterUS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Us Uat'</initValue>
+      <name>clientTeamMemberUS</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

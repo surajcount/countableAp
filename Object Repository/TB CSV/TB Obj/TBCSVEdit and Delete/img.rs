@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>7d51c440-a9b6-4f72-ba60-0930153bcac2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tbGrid']/table/tbody/tr[84]/td/button/span[2]/img</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;tbGrid&quot;)/table[@class=&quot;mat-mdc-table mdc-data-table__table cdk-table m-0 table-countable cell-p-8 hover-action trialBalTable customized-sort post-adjusting-selectedrow-color&quot;]/tbody[@class=&quot;mdc-data-table__content&quot;]/tr[@class=&quot;mat-mdc-row mdc-data-table__row cdk-row addedtwo ng-star-inserted&quot;]/td[@class=&quot;mat-mdc-cell mdc-data-table__cell cdk-cell position-relative cdk-column-accountactions mat-column-accountactions ng-star-inserted&quot;]/button[@class=&quot;mat-mdc-menu-trigger button-text ms-3 hover-action-item mdc-button mat-mdc-button mat-unthemed mat-mdc-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mdc-button__label&quot;]/img[1][count(. | //img[@src = '/assets/images/ui-uplift-icons/global/kebab-menu-icon.svg' and @alt = 'menu']) = count(//img[@src = '/assets/images/ui-uplift-icons/global/kebab-menu-icon.svg' and @alt = 'menu'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>body > app-root:nth-child(1) > app-dashboard:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > ntr-dashboard:nth-child(2) > div:nth-child(1) > div:nth-child(3) > trailbalance-details:nth-child(4) > div:nth-child(1) > div:nth-child(2) > div:nth-child(3) > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(83) > td:nth-child(1) > button:nth-child(2) > span:nth-child(2) > img:nth-child(1)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;ADD menu&quot;i] >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ceaa3a4d-02f0-4b5f-8918-cf8dc59bd1e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/images/ui-uplift-icons/global/kebab-menu-icon.svg</value>
+      <webElementGuid>47f785f4-c718-41de-bdf0-713b8bb91012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>menu</value>
+      <webElementGuid>ab444929-c70b-4a0f-9f15-366137059341</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbGrid&quot;)/table[@class=&quot;mat-mdc-table mdc-data-table__table cdk-table m-0 table-countable cell-p-8 hover-action trialBalTable customized-sort post-adjusting-selectedrow-color&quot;]/tbody[@class=&quot;mdc-data-table__content&quot;]/tr[@class=&quot;mat-mdc-row mdc-data-table__row cdk-row addedtwo ng-star-inserted&quot;]/td[@class=&quot;mat-mdc-cell mdc-data-table__cell cdk-cell position-relative cdk-column-accountactions mat-column-accountactions ng-star-inserted&quot;]/button[@class=&quot;mat-mdc-menu-trigger button-text ms-3 hover-action-item mdc-button mat-mdc-button mat-unthemed mat-mdc-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mdc-button__label&quot;]/img[1]</value>
+      <webElementGuid>2c7fe66b-b182-4e58-93f9-8ea28841b408</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tbGrid']/table/tbody/tr[84]/td/button/span[2]/img</value>
+      <webElementGuid>68f560c9-96ab-4bca-9225-f194ae6bc948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='menu'])[121]</value>
+      <webElementGuid>4126aaab-091e-4133-9781-7dc6be77397d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[84]/td/button/span[2]/img</value>
+      <webElementGuid>b57e4ce5-86a7-4dc0-b462-6d76e4cbbfeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/images/ui-uplift-icons/global/kebab-menu-icon.svg' and @alt = 'menu']</value>
+      <webElementGuid>e26f94d0-e9ac-4e9a-99bd-a8ca185ac468</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

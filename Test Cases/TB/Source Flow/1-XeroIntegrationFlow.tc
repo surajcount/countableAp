@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1-XeroIntegrationFlow</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>487a2ecf-4736-4ea4-bc77-2d49d2fbe43f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b409bfbe-d0f3-4b73-9312-5299abdd7904</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.clientEntityName</defaultValue>
+      <description></description>
+      <id>b409bfbe-d0f3-4b73-9312-5299abdd7904</id>
+      <masked>false</masked>
+      <name>clientIntButton</name>
+   </variable>
+</TestCaseEntity>

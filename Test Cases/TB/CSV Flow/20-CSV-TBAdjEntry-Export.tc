@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>20-CSV-TBAdjEntry-Export</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b98702e2-a21c-4d11-a2c4-170e60e627b5</testCaseGuid>
+</TestCaseEntity>

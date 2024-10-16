@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TBSearchField</name>
+   <tag></tag>
+   <elementGuidId>017e6e33-3345-45ec-96a6-d8ba7beeebb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/div[1]/div[1]/div[2]/ntr-dashboard[1]/div[1]/div[3]/trailbalance-details[1]/div[1]/div[2]/div[2]/div[2]/div[1]/mat-form-field[1]/div[1]/div[2]/div[2]/input[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

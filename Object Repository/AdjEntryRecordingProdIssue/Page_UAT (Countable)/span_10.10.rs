@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_10.10</name>
+   <tag></tag>
+   <elementGuidId>c4338349-44f2-41e3-a446-3259d8e9bd21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-mdc-menu-trigger.button-text.mdc-button.mat-mdc-button.mat-unthemed.mat-mdc-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mdc-button__label</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;tbGrid&quot;)/table[@class=&quot;mat-mdc-table mdc-data-table__table cdk-table m-0 table-countable cell-p-8 hover-action trialBalTable customized-sort post-adjusting-selectedrow-color&quot;]/tbody[@class=&quot;mdc-data-table__content&quot;]/tr[@class=&quot;mat-mdc-row mdc-data-table__row cdk-row ng-star-inserted&quot;]/td[@class=&quot;mat-mdc-cell mdc-data-table__cell cdk-cell text-end cdk-column-adjustmentamount mat-column-adjustmentamount ng-star-inserted&quot;]/button[@class=&quot;mat-mdc-menu-trigger button-text mdc-button mat-mdc-button mat-unthemed mat-mdc-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mdc-button__label&quot;][count(. | //span[@class = 'mdc-button__label' and (text() = ' 10.10 ' or . = ' 10.10 ')]) = count(//span[@class = 'mdc-button__label' and (text() = ' 10.10 ' or . = ' 10.10 ')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = ' 10.10 ' or . = ' 10.10 ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>29bea7aa-460d-43bd-913d-22411c024cbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-button__label</value>
+      <webElementGuid>5a9af776-3e4d-4101-aee9-4681c932edcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 10.10 </value>
+      <webElementGuid>647c5f69-a505-441b-bcef-7c0e7dd16827</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbGrid&quot;)/table[@class=&quot;mat-mdc-table mdc-data-table__table cdk-table m-0 table-countable cell-p-8 hover-action trialBalTable customized-sort post-adjusting-selectedrow-color&quot;]/tbody[@class=&quot;mdc-data-table__content&quot;]/tr[@class=&quot;mat-mdc-row mdc-data-table__row cdk-row ng-star-inserted&quot;]/td[@class=&quot;mat-mdc-cell mdc-data-table__cell cdk-cell text-end cdk-column-adjustmentamount mat-column-adjustmentamount ng-star-inserted&quot;]/button[@class=&quot;mat-mdc-menu-trigger button-text mdc-button mat-mdc-button mat-unthemed mat-mdc-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mdc-button__label&quot;]</value>
+      <webElementGuid>f6deaeec-22b5-4dfe-bf84-fdeda468ff30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tbGrid']/table/tbody/tr/td[6]/button/span[2]</value>
+      <webElementGuid>e33d994c-5e38-4524-9f7f-312672f28a0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FX Rate'])[1]/following::span[9]</value>
+      <webElementGuid>2504ab16-d009-4ac0-956d-8fb6d8b68847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I'])[2]/preceding::span[10]</value>
+      <webElementGuid>c2b8b729-4c9b-49b8-a016-de44a82f8fa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assets'])[2]/preceding::span[13]</value>
+      <webElementGuid>cee88ab5-dc42-4745-a1a0-82580aedd24a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='10.10']/parent::*</value>
+      <webElementGuid>f0e9f0ee-d913-43d5-be1b-770f284d42c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/button/span[2]</value>
+      <webElementGuid>8bb064b2-f09a-44e2-9a67-fc21e81001b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' 10.10 ' or . = ' 10.10 ')]</value>
+      <webElementGuid>7b59c414-532a-4b84-8254-8c58e8c9bb5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

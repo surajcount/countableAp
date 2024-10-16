@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>30-CSVCYImport-Automap-PYimport</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b4c56a7-f7b7-40be-b31e-3128277f5db9</testCaseGuid>
+</TestCaseEntity>

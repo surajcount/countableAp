@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Save_mat-mdc-button-touch-target_SaveAdj</name>
+   <tag></tag>
+   <elementGuidId>df6b6c30-a472-42f0-a5c7-a74b99795135</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/button[2]/span[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button-medium.mdc-button.mat-mdc-button.mdc-button--unelevated.mat-mdc-unelevated-button.mat-primary.mat-mdc-button-base.cdk-focused.cdk-mouse-focused > span.mat-mdc-button-touch-target</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fd2efb0c-77c7-4a29-a006-9adf38b70517</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-button-touch-target</value>
+      <webElementGuid>f55a240d-fd84-4eb0-87cf-228f79f90af4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-adjustment-entry[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-wraper adjustment-deactive&quot;]/div[@class=&quot;content-block-main postpost-adjusting-entry-container overflow-hidden&quot;]/form[@class=&quot;adjusting-entry-form horizontal-items gap-8 h-100 overflow-hidden ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;button-group pt-3 justify-content-end&quot;]/button[@class=&quot;button-medium mdc-button mat-mdc-button mdc-button--unelevated mat-mdc-unelevated-button mat-primary mat-mdc-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-mdc-button-touch-target&quot;]</value>
+      <webElementGuid>f1ad29ec-9b96-40c3-8f6a-b63b29fd6ffe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]/span[4]</value>
+      <webElementGuid>796365d1-a482-497e-8b67-0ea3a1911e62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

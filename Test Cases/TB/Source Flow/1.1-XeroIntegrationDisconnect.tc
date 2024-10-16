@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1.1-XeroIntegrationDisconnect</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>65b90909-ec3d-4cbc-9dd8-2048b9f8ea85</testCaseGuid>
+</TestCaseEntity>

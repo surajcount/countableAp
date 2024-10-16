@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>27-CSVTBLSColumnFilter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a07284ff-6ec6-41d3-873f-15b5bb41a312</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>15.1-SourceKebabMenu-UpdateToSource-HappyFlow</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3db7ac8f-31c2-4001-aec2-4e15d77565e1</testCaseGuid>
+</TestCaseEntity>

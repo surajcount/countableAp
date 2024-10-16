@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Delete_mat-mdc-button-touch-target</name>
+   <tag></tag>
+   <elementGuidId>1d0b886f-eef6-4eb0-b5bc-dfede0a08620</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;cdk-overlay-0&quot;)/mat-datepicker-content[@class=&quot;mat-datepicker-content ng-tns-c1807714112-960 ng-trigger ng-trigger-transformPanel mat-primary ng-star-inserted&quot;]/div[@class=&quot;mat-datepicker-content-container ng-tns-c1807714112-960 mat-datepicker-content-container-with-actions&quot;]/div[@class=&quot;mat-datepicker-actions ng-star-inserted&quot;]/button[@class=&quot;button-small flex-1 mdc-button mat-mdc-button mdc-button--unelevated mat-mdc-unelevated-button mat-primary mat-mdc-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-mdc-button-touch-target&quot;][count(. | //span[@class = 'mat-mdc-button-touch-target']) = count(//span[@class = 'mat-mdc-button-touch-target'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-mdc-dialog-1']/div/div/div/div[3]/button[2]/span[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button-normal.flex-1.m-0.mdc-button.mat-mdc-button.mdc-button--unelevated.mat-mdc-unelevated-button.mat-error.mat-mdc-button-base.cdk-focused.cdk-mouse-focused > span.mat-mdc-button-touch-target</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Delete&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7163b1b2-64ed-4fa6-a61f-512989ea1c1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-button-touch-target</value>
+      <webElementGuid>9efa0d36-6b1e-4239-8385-bf5c23da7f12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-mdc-dialog-1&quot;)/div[@class=&quot;mdc-dialog__container&quot;]/div[@class=&quot;mat-mdc-dialog-surface mdc-dialog__surface&quot;]/div[@class=&quot;countable-dialog confirmation-dailog ng-star-inserted&quot;]/div[@class=&quot;mat-mdc-dialog-actions mdc-dialog__actions dialog-footer button-group w-100&quot;]/button[@class=&quot;button-normal flex-1 m-0 mdc-button mat-mdc-button mdc-button--unelevated mat-mdc-unelevated-button mat-error mat-mdc-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-mdc-button-touch-target&quot;]</value>
+      <webElementGuid>bf2ac840-ec55-4f89-89d4-f03a56969564</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-mdc-dialog-1']/div/div/div/div[3]/button[2]/span[4]</value>
+      <webElementGuid>e709917c-33e1-4db4-8871-dba2182657ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]/span[4]</value>
+      <webElementGuid>d87612e3-364f-41e3-a66c-7895dc1cddb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

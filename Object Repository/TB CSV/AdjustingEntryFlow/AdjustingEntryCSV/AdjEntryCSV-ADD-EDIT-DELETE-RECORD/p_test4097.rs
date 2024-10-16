@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_test4097</name>
+   <tag></tag>
+   <elementGuidId>a1a24c9a-4ac7-442d-bd64-5157265f4bd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a6f8f1212c1a-2']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p[title='test4097']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;a6f8f1212c1a-2&quot;)/div[@class=&quot;flexbox-row gap-0 ng-star-inserted&quot;]/p[@class=&quot;flex-1 text-ellipse p-2&quot;][count(. | //p[@class = 'flex-1 text-ellipse p-2' and @title = 'test4097' and (text() = ' test4097 ' or . = ' test4097 ')]) = count(//p[@class = 'flex-1 text-ellipse p-2' and @title = 'test4097' and (text() = ' test4097 ' or . = ' test4097 ')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;test4097&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>60bbc96c-319c-4708-9e56-8065c0364624</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-1 text-ellipse p-2</value>
+      <webElementGuid>48cc8302-ad55-40d7-9e25-f2d32ea856d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>test4097</value>
+      <webElementGuid>4bf25c3c-a27c-459e-b372-0e030b25f113</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> test4097 </value>
+      <webElementGuid>1efb4d03-3277-40a7-aa0c-6554ca12e64b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a6f8f1212c1a-2&quot;)/div[@class=&quot;flexbox-row gap-0 ng-star-inserted&quot;]/p[@class=&quot;flex-1 text-ellipse p-2&quot;]</value>
+      <webElementGuid>827ebbc2-3ec1-49bd-8a19-d8bfcb9f537e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a6f8f1212c1a-2']/div/p</value>
+      <webElementGuid>920ce4cf-4551-4526-b678-dd49e687d398</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[1]/following::p[7]</value>
+      <webElementGuid>160cdcd0-e041-4cf1-b129-a2c6e7a34441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::p[7]</value>
+      <webElementGuid>e46d5acf-ec26-4923-8ac6-b092d465506b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type here to search'])[1]/preceding::p[18]</value>
+      <webElementGuid>46d45a25-42cb-4516-9558-8b9337eb7c88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[2]/preceding::p[18]</value>
+      <webElementGuid>7ca29108-fd78-438d-8d0d-760f1b37b5a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='test4097']/parent::*</value>
+      <webElementGuid>2fe8c9f7-427d-45cd-8852-865b044c0f79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/p</value>
+      <webElementGuid>539a52e4-d849-4f8c-919c-ca839c7831cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@title = 'test4097' and (text() = ' test4097 ' or . = ' test4097 ')]</value>
+      <webElementGuid>cf360c58-a773-4c5a-872e-3f829fda747b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

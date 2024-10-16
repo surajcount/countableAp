@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Export_mat-mdc-button-touch-target_EXPORTADJ</name>
+   <tag></tag>
+   <elementGuidId>145f967b-39d4-4086-830e-69bbb661d8f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[2]/span[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-mdc-menu-trigger.button-medium.mdc-button.mat-mdc-button.mdc-button--outlined.mat-mdc-outlined-button.mat-dark.mat-mdc-button-base.cdk-focused.cdk-mouse-focused > span.mat-mdc-button-touch-target</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>897c6b84-8007-4b3a-a1d0-7744dad343a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-button-touch-target</value>
+      <webElementGuid>645de07b-816d-4633-94bb-04df46839de1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-adj-entry[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-wraper adjustment-active&quot;]/div[@class=&quot;content-block-main p-0 h-100 overflow-hidden&quot;]/div[@class=&quot;d-flex flex-row h-100 overflow-hidden&quot;]/div[@class=&quot;content-block-main border-top gap-20 pt-4 adjustment-entriess h-100 overflow-hidden&quot;]/div[@class=&quot;vertical-items justify-content-between&quot;]/div[@class=&quot;button-group justify-content-end button-label-xl&quot;]/button[@class=&quot;mat-mdc-menu-trigger button-medium mdc-button mat-mdc-button mdc-button--outlined mat-mdc-outlined-button mat-dark mat-mdc-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-mdc-button-touch-target&quot;]</value>
+      <webElementGuid>f1bdd719-034a-4509-89eb-30f4aa634766</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span[4]</value>
+      <webElementGuid>de615d91-70a0-47c3-b0bc-ef26c602869a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

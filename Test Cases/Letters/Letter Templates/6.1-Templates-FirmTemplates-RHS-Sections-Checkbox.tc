@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>6.1-Templates-FirmTemplates-RHS-Sections-Checkbox</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bfb5b1dc-051c-48a7-aceb-aac8320d342f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bbc2b408-b564-4b85-b4fd-3e69816389a8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9f5e941f-8407-4a36-8b28-64eae304c434</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.editduplicateRHS</defaultValue>
+      <description></description>
+      <id>bbc2b408-b564-4b85-b4fd-3e69816389a8</id>
+      <masked>false</masked>
+      <name>editduplicateRHS</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.sectionCheckbox</defaultValue>
+      <description></description>
+      <id>9f5e941f-8407-4a36-8b28-64eae304c434</id>
+      <masked>false</masked>
+      <name>sectionCheckbox</name>
+   </variable>
+</TestCaseEntity>

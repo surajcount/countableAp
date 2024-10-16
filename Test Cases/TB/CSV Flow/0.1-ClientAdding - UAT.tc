@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>0.1-ClientAdding - UAT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>36794b46-7bf9-4b7d-b5fe-eb08f0cadfb5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1b288a8e-047c-472f-9432-b46458fdd22e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>55d58fa4-06b1-4b0f-8ff5-7135dec4a2ff</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>41ce7ed2-dada-4b94-a63b-0d18379b906e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.csvClient</defaultValue>
+      <description></description>
+      <id>1b288a8e-047c-472f-9432-b46458fdd22e</id>
+      <masked>false</masked>
+      <name>csvClient</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.csvClientEmail</defaultValue>
+      <description></description>
+      <id>55d58fa4-06b1-4b0f-8ff5-7135dec4a2ff</id>
+      <masked>false</masked>
+      <name>csvClientEmail</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.engagementPartner</defaultValue>
+      <description></description>
+      <id>41ce7ed2-dada-4b94-a63b-0d18379b906e</id>
+      <masked>false</masked>
+      <name>engagementPartner</name>
+   </variable>
+</TestCaseEntity>

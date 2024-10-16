@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_1040</name>
+   <tag></tag>
+   <elementGuidId>68a059a7-5e0c-4a93-a4a6-d4805e9f92ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a614c9d46937-40']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#a614c9d46937-40 > div.flexbox-row.gap-0.ng-star-inserted > p.flex-1.text-ellipse.p-2</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;a614c9d46937-40&quot;)/div[@class=&quot;flexbox-row gap-0 ng-star-inserted&quot;]/p[@class=&quot;flex-1 text-ellipse p-2&quot;][count(. | //p[@class = 'flex-1 text-ellipse p-2' and @title = '1040' and (text() = ' 1040 ' or . = ' 1040 ')]) = count(//p[@class = 'flex-1 text-ellipse p-2' and @title = '1040' and (text() = ' 1040 ' or . = ' 1040 ')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;1040&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>2e79e2f4-3bd8-4ec7-9bcd-49b0a1a01653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-1 text-ellipse p-2</value>
+      <webElementGuid>945e9804-bd10-485f-8074-4ae7e8fd3cad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>1040</value>
+      <webElementGuid>de4452e8-7b12-4ee4-9c8e-619f782b39dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 1040 </value>
+      <webElementGuid>1da306ae-2dce-4955-aebd-4d769d728f9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a614c9d46937-40&quot;)/div[@class=&quot;flexbox-row gap-0 ng-star-inserted&quot;]/p[@class=&quot;flex-1 text-ellipse p-2&quot;]</value>
+      <webElementGuid>2e385fc2-6ac1-407c-ae00-67975ce761bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a614c9d46937-40']/div/p</value>
+      <webElementGuid>020247fa-5f0e-4648-bd10-2101bf687b91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[4]/following::p[17]</value>
+      <webElementGuid>7abc4785-adb3-40bb-8d4f-3f317fe4dbe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='countable cash (deleted)'])[1]/following::p[17]</value>
+      <webElementGuid>95f5336a-9b26-410c-b262-a4da8497bf28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type here to search'])[4]/preceding::p[18]</value>
+      <webElementGuid>bd91ef50-4721-4445-bfa5-a1984e82e5ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/preceding::p[18]</value>
+      <webElementGuid>bffbec39-3c74-4827-97c2-719ecf960e94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1040']/parent::*</value>
+      <webElementGuid>85d93142-1f6f-4bd0-94a7-54851fe400da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/p</value>
+      <webElementGuid>e96ea1f5-f305-4099-98aa-9772df91f173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@title = '1040' and (text() = ' 1040 ' or . = ' 1040 ')]</value>
+      <webElementGuid>5d85a1e0-0b69-4dcd-9c74-a053d30e388c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

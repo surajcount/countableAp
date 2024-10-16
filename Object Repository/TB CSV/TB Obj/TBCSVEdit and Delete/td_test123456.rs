@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_test123456</name>
+   <tag></tag>
+   <elementGuidId>8cfc36dc-4d3b-4527-ae77-0cc5975a73d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@title = 'test@1234' and (text() = ' test@123456 ' or . = ' test@123456 ')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;tbGrid&quot;)/table[@class=&quot;mat-mdc-table mdc-data-table__table cdk-table m-0 table-countable cell-p-8 hover-action trialBalTable customized-sort post-adjusting-selectedrow-color&quot;]/tbody[@class=&quot;mdc-data-table__content&quot;]/tr[@class=&quot;mat-mdc-row mdc-data-table__row cdk-row addedtwo ng-star-inserted&quot;]/td[@class=&quot;mat-mdc-cell mdc-data-table__cell cdk-cell border-end cdk-column-accountname mat-column-accountname ng-star-inserted&quot;][count(. | //td[@class = 'mat-mdc-cell mdc-data-table__cell cdk-cell border-end cdk-column-accountname mat-column-accountname ng-star-inserted' and @role = 'cell' and @title = 'test@123456' and (text() = ' test@123456' or . = ' test@123456')]) = count(//td[@class = 'mat-mdc-cell mdc-data-table__cell cdk-cell border-end cdk-column-accountname mat-column-accountname ng-star-inserted' and @role = 'cell' and @title = 'test@123456' and (text() = ' test@123456' or . = ' test@123456')])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td[title='test@123456']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;test@1234&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>6d885f3c-3239-4d4d-aa85-f2042911911b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-cell mdc-data-table__cell cdk-cell border-end cdk-column-accountname mat-column-accountname ng-star-inserted</value>
+      <webElementGuid>d9f0d42b-9982-4376-8e6f-fc1b0f32e930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>cell</value>
+      <webElementGuid>df03c79e-014b-4061-ad5e-4ceb605bbf40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>test@123456</value>
+      <webElementGuid>d7f348a8-9547-4a4c-ab17-d04939eccdb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> test@123456</value>
+      <webElementGuid>9b07e1ee-a041-48c8-9ddf-65ed3078b226</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbGrid&quot;)/table[@class=&quot;mat-mdc-table mdc-data-table__table cdk-table m-0 table-countable cell-p-8 hover-action trialBalTable customized-sort post-adjusting-selectedrow-color&quot;]/tbody[@class=&quot;mdc-data-table__content&quot;]/tr[@class=&quot;mat-mdc-row mdc-data-table__row cdk-row addedtwo ng-star-inserted&quot;]/td[@class=&quot;mat-mdc-cell mdc-data-table__cell cdk-cell border-end cdk-column-accountname mat-column-accountname ng-star-inserted&quot;]</value>
+      <webElementGuid>f9d2abb5-6826-4c31-9153-2dd415acdcc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tbGrid']/table/tbody/tr[84]/td[4]</value>
+      <webElementGuid>bab1ea83-5733-4112-b25f-ae68cf366442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD'])[1]/following::td[3]</value>
+      <webElementGuid>8bfb0113-d2cb-4c12-92c0-5b4cd606e9fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NA'])[48]/following::td[6]</value>
+      <webElementGuid>53851034-15a9-473d-bc14-4d2db709c8c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='H'])[4]/preceding::td[8]</value>
+      <webElementGuid>9b0dbeff-b976-40ab-b567-299c4276436e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assets'])[78]/preceding::td[9]</value>
+      <webElementGuid>7c1ca27f-f982-43f1-a353-903f2531b316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='test@123456']/parent::*</value>
+      <webElementGuid>b0860977-91dd-4059-858c-99079ccd5f0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[84]/td[4]</value>
+      <webElementGuid>724b26d0-ded4-4133-a0c8-f1cfa860462d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@title = 'test@1234' and (text() = ' test@123456 ' or . = ' test@123456 ')]</value>
+      <webElementGuid>e121b87d-df7d-4839-8f31-9ffec4a13761</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

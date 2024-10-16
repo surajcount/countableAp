@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_v29canadayopmail.com UAT</name>
+   <tag></tag>
+   <elementGuidId>e74631a8-317d-4b7f-b459-cc39a2c23870</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@title='v29canada@yopmail.com' or @title='canadaangular@yopmail.com' or @title='pravinpatiluat@yopmail.com' or @title='v22canada@yopmail.com']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;afb8ad8b8f4b-0&quot;)/div[@class=&quot;partner-details d-flex flex-nowrap align-items-center gap-4 ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-column&quot;]/p[@class=&quot;text-ellipse&quot;][count(. | //p[@class = 'text-ellipse' and @title = 'uatcanada25@yopmail.com' and (text() = ' uatcanada25@yopmail.com ' or . = ' uatcanada25@yopmail.com ')]) = count(//p[@class = 'text-ellipse' and @title = 'uatcanada25@yopmail.com' and (text() = ' uatcanada25@yopmail.com ' or . = ' uatcanada25@yopmail.com ')])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;uatcanada25@yopmail.com&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1b0015ae-1579-40ab-8ef5-3d21ea1dc5f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-ellipse</value>
+      <webElementGuid>d68d8efb-6c92-4b6f-9f0b-406c2a6bad90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>uatcanada25@yopmail.com</value>
+      <webElementGuid>e9fa1e01-5bae-4430-a181-5b1ac8050495</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> uatcanada25@yopmail.com </value>
+      <webElementGuid>35ec5d93-38cb-4dc7-846d-35581cda6d53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;afb8ad8b8f4b-0&quot;)/div[@class=&quot;partner-details d-flex flex-nowrap align-items-center gap-4 ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-column&quot;]/p[@class=&quot;text-ellipse&quot;]</value>
+      <webElementGuid>1142764b-c083-4015-ac30-3b2638292b96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@title='v29canada@yopmail.com']</value>
+      <webElementGuid>5064d78c-be87-4ee5-ac94-0d7b798ea43a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CU'])[3]/following::p[2]</value>
+      <webElementGuid>68ee8425-ab70-4c8c-b77c-9766250e5404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::p[2]</value>
+      <webElementGuid>4964d898-792c-4055-8c45-d46e96206cf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MP'])[1]/preceding::p[2]</value>
+      <webElementGuid>dd4db675-dcc4-4676-afbf-a4e82f1571cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JP'])[1]/preceding::p[5]</value>
+      <webElementGuid>ce7c8a38-0b0f-40ab-952d-27116a4c49d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='uatcanada25@yopmail.com']/parent::*</value>
+      <webElementGuid>09355745-950e-48c4-8846-ecaa0ee14abb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>3555b2ac-42e9-4084-a720-0490438bd18e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@title = 'uatcanada25@yopmail.com' and (text() = ' uatcanada25@yopmail.com ' or . = ' uatcanada25@yopmail.com ')]</value>
+      <webElementGuid>518358f5-995c-4482-a8c0-d57e6b248c00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

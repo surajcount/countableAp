@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5-TBGrouping-LS - Existing LS Flow</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>44ba3ecb-dd53-4052-8c94-08310cea94fc</testCaseGuid>
+</TestCaseEntity>

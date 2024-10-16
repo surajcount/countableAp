@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_1000.1</name>
+   <tag></tag>
+   <elementGuidId>4af384be-fb96-49b8-a823-cd084625bec3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@title='1000.1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#a493ec574194-4 > div.flexbox-row.gap-0.ng-star-inserted > p.flex-1.text-ellipse.p-2</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;a493ec574194-4&quot;)/div[@class=&quot;flexbox-row gap-0 ng-star-inserted&quot;]/p[@class=&quot;flex-1 text-ellipse p-2&quot;][count(. | //p[@class = 'flex-1 text-ellipse p-2' and @title = '1000.1' and (text() = ' 1000.1 ' or . = ' 1000.1 ')]) = count(//p[@class = 'flex-1 text-ellipse p-2' and @title = '1000.1' and (text() = ' 1000.1 ' or . = ' 1000.1 ')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;1000.1&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e64c06e1-f2d9-4f24-8613-e698e005a9f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-1 text-ellipse p-2</value>
+      <webElementGuid>c38baaec-c12a-4857-b103-757305e178de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>1000.1</value>
+      <webElementGuid>32f6c01a-eec6-42c3-8da9-047cb0a639dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 1000.1 </value>
+      <webElementGuid>2d55bec9-b8e1-423a-8f4d-f35dfc2291ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a493ec574194-4&quot;)/div[@class=&quot;flexbox-row gap-0 ng-star-inserted&quot;]/p[@class=&quot;flex-1 text-ellipse p-2&quot;]</value>
+      <webElementGuid>321fda3f-f408-4a89-a14f-56143f1cc1cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a493ec574194-4']/div/p</value>
+      <webElementGuid>2d5fb180-d316-4d7c-9b2b-c676ba41fb6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[3]/following::p[11]</value>
+      <webElementGuid>09bf4750-82f6-4455-9b46-fcfac9d5c687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash &amp; Cash Equivalents (deleted)'])[1]/following::p[11]</value>
+      <webElementGuid>1734c8ce-322f-4a1b-b91a-289538c60a5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type here to search'])[3]/preceding::p[14]</value>
+      <webElementGuid>9de68375-9962-4c72-9431-c4fcf496a94d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/preceding::p[14]</value>
+      <webElementGuid>a5ac49c1-de28-41a4-a355-6116de25fb74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/p</value>
+      <webElementGuid>2b3f7f7f-a5ac-4272-8258-bdab47026c2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@title = '1000.1' and (text() = ' 1000.1 ' or . = ' 1000.1 ')]</value>
+      <webElementGuid>46f1c83a-5c6f-42ed-8ff7-86642d582495</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>0.2-XeroIntegrationFlow</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e503a8a6-99e1-4ba5-b7bc-32d601079c48</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>da569b70-20da-4d5b-8ae4-b9fbfd81cd5b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.workbookClient</defaultValue>
+      <description></description>
+      <id>da569b70-20da-4d5b-8ae4-b9fbfd81cd5b</id>
+      <masked>false</masked>
+      <name>clientSelectForGrouping</name>
+   </variable>
+</TestCaseEntity>

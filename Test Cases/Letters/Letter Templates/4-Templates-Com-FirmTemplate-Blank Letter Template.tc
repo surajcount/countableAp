@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4-Templates-Com-FirmTemplate-Blank Letter Template</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8a0684fd-7400-4ac9-913d-97b8c765469c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ba175d72-ba4a-40cc-b1c5-2cc8abdc2c69</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Blank Auto Report'</defaultValue>
+      <description>Letter template - TC4</description>
+      <id>ba175d72-ba4a-40cc-b1c5-2cc8abdc2c69</id>
+      <masked>false</masked>
+      <name>blankReportName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9-CreateEngagement-US-ClientAdding</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb29d33d-0ea9-4e1c-afbc-fc0676e8ada4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d2d1eb2d-e928-40bf-bd52-ea5e64a6cd41</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7a45b7ee-9e32-4978-866e-d24ca5aea2fb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.clientEntityNameLetterUS</defaultValue>
+      <description></description>
+      <id>d2d1eb2d-e928-40bf-bd52-ea5e64a6cd41</id>
+      <masked>false</masked>
+      <name>clientEntityNameLetterUS</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.clientEmailAddressLetterUS</defaultValue>
+      <description></description>
+      <id>7a45b7ee-9e32-4978-866e-d24ca5aea2fb</id>
+      <masked>false</masked>
+      <name>clientEmailAddressLetterUS</name>
+   </variable>
+</TestCaseEntity>

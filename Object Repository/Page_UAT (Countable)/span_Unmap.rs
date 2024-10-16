@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Unmap</name>
+   <tag></tag>
+   <elementGuidId>a73fa957-86b6-49ff-bc69-1fc2f25aace4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='search'])[1]/following::span[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button-medium.mdc-button.mat-mdc-button.mdc-button--outlined.mat-mdc-outlined-button.mat-dark.mat-mdc-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mdc-button__label > span.button-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;icon Unmap&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f0c2162b-4603-4319-8320-ba91e95b6741</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-label</value>
+      <webElementGuid>13b0d7de-da68-46d9-b51b-7df8a4c50859</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Unmap</value>
+      <webElementGuid>d6bbb5d2-27c2-46fc-8871-1cea4681274f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;dasboard-container layout-dashboard drawer-small&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;dashboard-main&quot;]/ntr-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ntr-panel d-flex w-100 h-100 ntr-Left-side-menu-enabled ntr-right-panel-desabled signOff-disabled&quot;]/div[@class=&quot;dashboard-main gap-0 bg-white trailanceEnabled&quot;]/trailbalance-details[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-wraper&quot;]/div[@class=&quot;content-block-main gap-20&quot;]/div[@class=&quot;tb-header flexbox-row p-0 gap-8&quot;]/div[@class=&quot;button-group justify-content-end large-screen button-label-xl ms-auto gap-8&quot;]/button[@class=&quot;button-medium mdc-button mat-mdc-button mdc-button--outlined mat-mdc-outlined-button mat-dark mat-mdc-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mdc-button__label&quot;]/span[@class=&quot;button-label&quot;]</value>
+      <webElementGuid>df2261ae-385f-4eb5-bc63-2393057da7d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='search'])[1]/following::span[3]</value>
+      <webElementGuid>1adfe90e-c045-43b2-bac9-896f741afced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::span[5]</value>
+      <webElementGuid>0efb6256-0e69-45fe-8b4e-b120e20afc15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auto Map'])[1]/preceding::span[5]</value>
+      <webElementGuid>24003888-88ee-4c8b-ad59-4f123bd43931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import'])[1]/preceding::span[11]</value>
+      <webElementGuid>d7729f11-9311-49d5-a3cd-25baf8ff35ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Unmap']/parent::*</value>
+      <webElementGuid>a8eb8a6c-e169-4631-918f-b85a0f690a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span[2]/span</value>
+      <webElementGuid>2680bc53-195c-405c-a8ab-59464007c295</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Unmap' or . = 'Unmap')]</value>
+      <webElementGuid>0e245644-1447-4176-b6ec-ede85d2d46a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

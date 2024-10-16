@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5-Templates-FirmTemplates-RHS-delete, Duplicate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f21dbf37-cd9e-463c-bc0b-19c0bacc3130</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>992ce591-501d-455c-ae74-3387c7bba659</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.editduplicateRHS</defaultValue>
+      <description></description>
+      <id>992ce591-501d-455c-ae74-3387c7bba659</id>
+      <masked>false</masked>
+      <name>editduplicateRHS</name>
+   </variable>
+</TestCaseEntity>

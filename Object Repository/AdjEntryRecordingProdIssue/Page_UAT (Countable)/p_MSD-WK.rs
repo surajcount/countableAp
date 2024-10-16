@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_MSD-WK</name>
+   <tag></tag>
+   <elementGuidId>e6ebe320-ac30-4721-8b62-d4b27fc5fb1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ab2e315d9c3d-0 > div.flexbox-row.gap-0.ng-star-inserted > p.flex-1.text-ellipse.p-2</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;ab2e315d9c3d-0&quot;)/div[@class=&quot;flexbox-row gap-0 ng-star-inserted&quot;]/p[@class=&quot;flex-1 text-ellipse p-2&quot;][count(. | //p[@class = 'flex-1 text-ellipse p-2' and @title = 'MSD-WK' and (text() = ' MSD-WK ' or . = ' MSD-WK ')]) = count(//p[@class = 'flex-1 text-ellipse p-2' and @title = 'MSD-WK' and (text() = ' MSD-WK ' or . = ' MSD-WK ')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@title='MSD-WK']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0dde489f-ab43-4fd0-abc5-8bd361bd1cbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-1 text-ellipse p-2</value>
+      <webElementGuid>e2698a80-b5cf-41bb-bbb4-1de2901ec412</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>MSD-WK</value>
+      <webElementGuid>eec09f2d-af3d-44e8-827f-b12d235c5160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> MSD-WK </value>
+      <webElementGuid>409fbd52-7466-4944-84b3-157f1108d49b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ab2e315d9c3d-0&quot;)/div[@class=&quot;flexbox-row gap-0 ng-star-inserted&quot;]/p[@class=&quot;flex-1 text-ellipse p-2&quot;]</value>
+      <webElementGuid>ef1a1d81-2098-43f7-b1a8-110bd6b56387</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@title='MSD-WK']</value>
+      <webElementGuid>b4f98c0d-a149-4324-9274-8373c76675d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type here to search'])[2]/following::p[3]</value>
+      <webElementGuid>545fb12c-c7b9-469a-b9c0-0c0ad471cf09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[2]/following::p[3]</value>
+      <webElementGuid>36496273-8494-4f8d-88d3-9a7435ad1301</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/preceding::p[2]</value>
+      <webElementGuid>26f43328-9141-43ff-a15d-5b78fa7e423d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/preceding::p[2]</value>
+      <webElementGuid>9489f6d1-ba2b-4bd0-b237-8c0a00c9b523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MSD-WK']/parent::*</value>
+      <webElementGuid>241f76d5-8284-464d-94f7-e709e03bfd6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/p</value>
+      <webElementGuid>407f2bf0-aad0-4185-a94c-b35be0df3bae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@title = 'MSD-WK' and (text() = ' MSD-WK ' or . = ' MSD-WK ')]</value>
+      <webElementGuid>9ec3d4b9-9919-49dc-82b8-5003aae909ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

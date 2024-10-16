@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>0-Login-UAT Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>360ed4d8-b99d-4c2a-be03-21c989ceee38</testCaseGuid>
+</TestCaseEntity>
